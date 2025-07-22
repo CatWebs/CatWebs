@@ -70,12 +70,11 @@
   </div>
 </div>
 <br>
-<table align="center">
-  <tr>
-    <td><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="40"></td>
-    <td><h2>Github Stats</h2></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <h2 style="display: inline"> Github Stats </h2>
+</div>
+<br>
 
 
 <div align="center">
