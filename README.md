@@ -70,10 +70,13 @@
   </div>
 </div>
 <br>
-<div style="display:flex;align-items: center; justify-content:center;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="40">
-  <h2> Github Stats </h2>
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="40"></td>
+    <td><h2>Github Stats</h2></td>
+  </tr>
+</table>
+
 
 <div align="center">
   <a href="https://github.com/CatWebs">
