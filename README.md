@@ -21,43 +21,45 @@
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 <br>
-<h3 align="left">🚀 Sobre mí</h3>
-<p align="left">
-✔ Soy Desarrolladora Frontend, especializada en ReactJS<br>
-✔ Realicé un diplomado de Diseño de Experiencias del Usuario (UX) de Google<br>
-✔ Actualmente estoy trabajando en proyectos personales y como <strong>Freelancer</strong><br>
-✔ Estudio activamente <strong>JavaScript y tecnologías relacionadas</strong><br>
-✔ Me encantaría colaborar en diversos <strong>Proyectos</strong>. Estoy completamente abierta a recibir una oferta laboral.
-</p>
-
-<h3 align="left">💻 ¿A qué me dedico actualmente?</h3>
-<p align="left">
-📱 Desarrollo de sitios o aplicaciones web responsivas.<br>
-💻 Maquetado con HTML5, CSS y Bootstrap.<br>
-📌 Desarrollo frontend con HTML, CSS, JavaScript y React.<br>
-🎨 Diseño de interfaces intuitivas y accesibles, con enfoque en experiencia de usuario.<br>
-💡 Administración de servicios de Hosting Web y Correos electrónicos institucionales.<br>
-✨ Integración de API's y formularios funcionales conectados a servidores o servicios de terceros.<br>
-📚 Aprender... Nunca dejar de aprender.
-</p>
-
-<h3 align="left">👀 Datos Curiosos</h3>
-<p align="left">
-🎯 <strong>CatWebs</strong> - Es el nombre bajo el cual muestro mis proyectos en Github<br>
-🎓 Soy <strong>Ingeniera de Ejecución Electrónica</strong> de profesión<br>
-😄 <strong>Fun fact:</strong> En mis inicios desarrollando he hecho algunos commits sin mucho sentido<br>
-☀️ Algunos de mis hobbies son los videojuegos 🎮 y tejer 🧶<br>
-😻 Catlover - Tengo dos gatos
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CatWebs/CatWebs/refs/heads/main/catwebs-caricatura.png" height="350"/><br><br>
-  <a href="https://www.linkedin.com/in/catalina-cisternas-torres/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30" /></a>
-  <a href="mailto:catalina.cisternas@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
-  <a href="https://portafolio-inky-nu-66.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" height="30" /></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3 align="left">🚀 Sobre mí</h3>
+      <p align="left">
+        ✔ Soy Desarrolladora Frontend, especializada en ReactJS.<br>
+        ✔ Realicé un diplomado de Diseño de Experiencias del Usuario (UX) de Google.<br>
+        ✔ Actualmente estoy trabajando en proyectos personales y como <strong>Freelancer</strong>.<br>
+        ✔ Estudio activamente <strong>JavaScript y tecnologías relacionadas</strong>.<br>
+        ✔ Me encantaría colaborar en diversos <strong>Proyectos</strong>. Estoy completamente abierta a recibir una oferta laboral.
+      </p>
+      <h3 align="left">💻 ¿A qué me dedico actualmente?</h3>
+      <p align="left">
+        📱 Desarrollo de sitios o aplicaciones web responsivas.<br>
+        💻 Maquetado con HTML5, CSS y Bootstrap.<br>
+        📌 Desarrollo frontend con HTML, CSS, JavaScript y React.<br>
+        🎨 Diseño de interfaces intuitivas y accesibles, con enfoque en experiencia de usuario.<br>
+        💡 Administración de servicios de Hosting Web y Correos electrónicos institucionales.<br>
+        ✨ Integración de API's y formularios funcionales conectados a servidores o servicios de terceros.<br>
+        📚 Aprender... Nunca dejar de aprender.
+      </p>
+      <h3 align="left">👀 Datos Curiosos</h3>
+      <p align="left">
+        🎯 <strong>CatWebs</strong> - Es el nombre bajo el cual muestro mis proyectos en Github.<br>
+        🎓 Soy <strong>Ingeniera de Ejecución Electrónica</strong> de profesión.<br>
+        😄 <strong>Fun fact:</strong> En mis inicios desarrollando he hecho algunos commits sin mucho sentido.<br>
+        ☀️ Algunos de mis hobbies son los videojuegos 🎮 y tejer 🧶.<br>
+        😻 Catlover - Tengo dos gatos.
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/CatWebs/CatWebs/refs/heads/main/catwebs-caricatura.png" width="250"/>
+        <br>
+      <a href="https://www.linkedin.com/in/catalina-cisternas-torres/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30" /></a>
+      <a href="mailto:catalina.cisternas@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
+      <a href="https://portafolio-inky-nu-66.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" height="30" /></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
