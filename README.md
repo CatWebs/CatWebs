@@ -6,61 +6,54 @@
     </em> 
     <br>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Apasionada por el aprendizaje continuo y la búsqueda de soluciones creativas</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  </p>
+</p>
 
-<div align="center">
-  <p>
-    <a href="https://github.com/CatWebs?tab=followers">
-      <img src="https://img.shields.io/github/followers/CatWebs?color=FF6B6B&label=Followers&style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/CatWebs?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/badge/Repos-11-orange?style=for-the-badge&logo=repo"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=CatWebs&color=blueviolet&style=for-the-badge"/>
-  </p>
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-<br>
-<br>
-<div style="display: flex; align-items: top; justify-content: space-around;">
-  <div>
-    <h3> 🚀 Sobre mí </h3>
-    <ul style="list-style: none;">
-      <li>✔ Soy Desarrolladora Frontend, especializada en ReactJS</li>
-      <li>✔ Realicé un diplomado de Diseño de Experiencias del Usuario (UX) de Google</li>
-      <li>✔ Actualmente estoy trabajando en proyectos personales y en pequeños proyectos como <strong>Freelancer</strong></li>
-      <li>✔ Estudio activamente <strong>JavaScript y tecnologías relacionadas</strong></li>
-      <li>✔ Me encantaría colaborar en diversos <strong>Proyectos.</strong> Estoy completamente abierta a recibir una oferta laboral.</li>
-    </ul>
-    <h3>💻 ¿A qué me dedico actualmente?</h3>
-    <ul style="list-style: none;">
-      <li>📱 Desarrollo de sitios o aplicaciones web responsivas.</li>
-      <li>💻 Maquetado con HTML5, CSS y Bootstrap.</li>
-      <li>📌 Desarrollo frontend con HTML, CSS, JavaScript y React.</li>
-      <li>🎨 Diseño de interfaces intuitivas y accesibles, con enfoque en experiencia de usuario.</li>
-      <li>💡 Administración de servicios de Hosting Web y Correos electrónicos institucionales.</li>
-      <li>✨ Integración de API's y formularios funcionales conectados a servidores o servicios de terceros.</li>
-      <li>📚 Aprender... Nunca dejar de aprender.</li>
-    </ul>
-    <h3> 👀 Datos Curiosos</h3>
-    <ul style="list-style: none;">
-      <li> 🎯 <strong>CatWebs</strong> - Es el nombre bajo el cual muestro mis proyectos en Github</li>
-      <li> 🎓 Soy <strong>Ingeniera de Ejecución Electrónica</strong> de profesión</li>
-      <li> 😄 <strong>Fun fact:</strong> En mis inicios desarrollando he hecho algunos commits sin mucho sentido</li>
-      <li>☀️ Algunos de mis hobbies son los videojuegos 🎮 y tejer 🧶</li>
-      <li> 😻 Catlover - Tengo dos gatos</li>
-    </ul>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
+<h3> 🚀 Sobre mí </h3>
 
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/CatWebs/CatWebs/refs/heads/main/catwebs-caricatura.png" height="500">
-    <p align="center">
-      <a href="https://www.linkedin.com/in/catalina-cisternas-torres/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin logo" height="30" width="80" /></a>
-      <a href="mailto:catalina.cisternas@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="email logo" height="30" width="80" /></a>
-      <a href="https://portafolio-inky-nu-66.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" alt="website logo" height="30" width="90" /></a>
-    </p>
-  </div>
-</div>
+<ul>
+  <li>✔ Soy Desarrolladora Frontend, especializada en ReactJS</li>
+  <li>✔ Realicé un diplomado de Diseño de Experiencias del Usuario (UX) de Google</li>
+  <li>✔ Actualmente estoy trabajando en proyectos personales y como <strong>Freelancer</strong></li>
+  <li>✔ Estudio activamente <strong>JavaScript y tecnologías relacionadas</strong></li>
+  <li>✔ Me encantaría colaborar en diversos <strong>Proyectos</strong>. Estoy completamente abierta a recibir una oferta laboral.</li>
+</ul>
+
+<h3>💻 ¿A qué me dedico actualmente?</h3>
+
+<ul>
+  <li>📱 Desarrollo de sitios o aplicaciones web responsivas.</li>
+  <li>💻 Maquetado con HTML5, CSS y Bootstrap.</li>
+  <li>📌 Desarrollo frontend con HTML, CSS, JavaScript y React.</li>
+  <li>🎨 Diseño de interfaces intuitivas y accesibles, con enfoque en experiencia de usuario.</li>
+  <li>💡 Administración de servicios de Hosting Web y Correos electrónicos institucionales.</li>
+  <li>✨ Integración de API's y formularios funcionales conectados a servidores o servicios de terceros.</li>
+  <li>📚 Aprender... Nunca dejar de aprender.</li>
+</ul>
+
+<h3> 👀 Datos Curiosos</h3>
+
+<ul>
+  <li> 🎯 <strong>CatWebs</strong> - Es el nombre bajo el cual muestro mis proyectos en Github</li>
+  <li> 🎓 Soy <strong>Ingeniera de Ejecución Electrónica</strong> de profesión</li>
+  <li> 😄 <strong>Fun fact:</strong> En mis inicios desarrollando he hecho algunos commits sin mucho sentido</li>
+  <li>☀️ Algunos de mis hobbies son los videojuegos 🎮 y tejer 🧶</li>
+  <li> 😻 Catlover - Tengo dos gatos</li>
+</ul>
+
+    </td>
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/CatWebs/CatWebs/refs/heads/main/catwebs-caricatura.png" height="400"/><br><br>
+      <a href="https://www.linkedin.com/in/catalina-cisternas-torres/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30" /></a>
+      <a href="mailto:catalina.cisternas@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
+      <a href="https://portafolio-inky-nu-66.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" height="30" /></a>
+    </td>
+  </tr>
+</table>
+
  <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 <br>
