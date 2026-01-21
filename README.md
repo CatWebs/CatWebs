@@ -56,7 +56,7 @@
         <br>
       <a href="https://www.linkedin.com/in/catalina-cisternas-torres/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="30" /></a>
       <a href="mailto:catalina.cisternas@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
-      <a href="https://portafolio-inky-nu-66.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" height="30" /></a>
+      <a href="https://portafolio-catalina-cisternas.vercel.app/"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google-Chrome&logoColor=white" height="30" /></a>
     </td>
   </tr>
 </table>
