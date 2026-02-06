@@ -66,8 +66,8 @@
 <h3>📊 Github Stats </h3>
 <div align="center">
   <a href="https://github.com/CatWebs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatWebs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatWebs&layout=compact&theme=radical&langs_count=6&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CatWebs&theme=tokyonight&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=CatWebs&theme=tokyonight&show_icons=true"/>
   </a>
 </div>
 
